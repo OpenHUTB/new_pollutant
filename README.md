@@ -37,3 +37,14 @@
 - 
 - ![Local Image](./img/WechatIMG247.jpg)
 - ![Local Image](./img/WechatIMG248.jpg)
+
+
+
+## 大模型配置
+
+一键运行大模型对话和代码生成的工具在[百度网盘链接](https://pan.baidu.com/s/1n2fJvWff4pbtMe97GOqtvQ?pwd=hutb) 的“学习->大模型”目录下，“WizardLM演示视频.mp4”展示了如何运行和测试这个模型的详细步骤。以下是进行代码调试的环境部署步骤：
+
+1. 将[百度网盘链接](https://pan.baidu.com/s/1n2fJvWff4pbtMe97GOqtvQ?pwd=hutb) 的“学习->大模型->webui”目录中的文件下载；
+2. 解压`python.zip`到`gpt/`目录，`WizardCoder-15B-1.0-GPTQ.zip`和`chatglm2-6b.zip`解压到`gpt/models`目录下；
+3. 运行`windowsdesktop-runtime-6.0.10-win-x64.exe`安装.Net；
+4. 点击`快速启动.exe`运行图形化界面。
